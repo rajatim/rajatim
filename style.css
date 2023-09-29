@@ -1,0 +1,33 @@
+body {
+    font-family: 'Your Preferred Font', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#about-me {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+}
+
+#about-me img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+#about-me h1 {
+    color: #333;
+}
+
+#about-me p {
+    color: #666;
+}
